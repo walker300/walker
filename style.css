@@ -11,8 +11,9 @@
 body {
   font-family: "Ubuntu", sans-serif;
   font-size: 100%;
-  background-image: url("2.jpg");
-
+  background: #66666F; 
+  background-image: url("2.jpg"); 
+}
 a {
   text-decoration: none;
   color: #666; }
