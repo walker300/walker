@@ -322,6 +322,42 @@ ul.social-icons {
 .fa-github:hover {
     background-color: #0073a4;
 }
+.fa-discord {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-discord:hover {
+    background-color: #7289da;
+}
+.fa-steam {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-steam:hover {
+    background-color: #00adee;
+}
+.fa-ogu {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-steam:hover {
+    background-color: #ff4c4c;
+}
 h1 span {
   color: #8e44ad;
 }
